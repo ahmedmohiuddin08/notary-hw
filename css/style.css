@@ -5,6 +5,8 @@ body {
   padding: 0;
   box-sizing: border-box;
   font-family: 'Montserrat', sans-serif;
+  color: #333131;
+
 }
 
 html {
@@ -249,6 +251,7 @@ nav ul li a:hover:after {
   padding: 2rem;
   border-radius: 5px;
   transition: 0.2s all;
+  border: 0.5px solid #333131;
 }
 
 .feature-div p {
